@@ -3,6 +3,21 @@
 
 HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Material UI](http://www.material-ui.com/) + [Nodered](http://http://nodered.org/) + [MongoDB](https://www.mongodb.com/)/[DynamoDB](https://aws.amazon.com/pt/dynamodb/)
 
+## Material UI interfaces:
+
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen1.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen2.png)
+![alt tag](https://github.com/aerika-bedin/ControleFeriasDFQM/blob/master/docs/screen3.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen4.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen5.png)
+
+# #Node-red flows:
+
+![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow1.png)
+![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow2.png)
+![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow3.png)
+
+
 ```
 /src/ferias.json
 ```
