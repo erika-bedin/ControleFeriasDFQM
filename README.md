@@ -1,4 +1,4 @@
-Ferias
+# Férias
 ======
 
 HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Material UI](http://www.material-ui.com/) + [Nodered](http://http://nodered.org/) + [MongoDB](https://www.mongodb.com/)/[DynamoDB](https://aws.amazon.com/pt/dynamodb/)
