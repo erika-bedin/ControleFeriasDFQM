@@ -5,7 +5,7 @@ HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Mat
 
 ## Material UI interfaces:
 
-![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen1.png)
+[alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen1.png)
 ![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen2.png)
 ![alt tag](https://github.com/aerika-bedin/ControleFeriasDFQM/blob/master/docs/screen3.png)
 ![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/screen4.png)
