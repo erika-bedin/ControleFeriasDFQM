@@ -1,27 +1,29 @@
-Ferias
-======
+# Controle de Férias do DFQM / UFSCar
+# Vacation Control DFQM / UFSCar
+
 
 HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Material UI](http://www.material-ui.com/) + [Nodered](http://http://nodered.org/) + [MongoDB](https://www.mongodb.com/)/[DynamoDB](https://aws.amazon.com/pt/dynamodb/)
 
-##Material UI interfaces:
+## Material UI interfaces:
 
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen1.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen2.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen3.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen4.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen5.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/screen1.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/screen2.png)
+![alt tag](https://github.com/aerika-bedin/ControleFeriasDFQM/blob/main/docs/screen3.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/screen4.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/screen5.png)
 
-##Node-red flows:
+# #Node-red flows:
 
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow1.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow2.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow3.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/flow1.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/flow2.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/main/docs/flow3.png)
+
 
 ```
 /src/ferias.json
 ```
 
-##Mongodb collections: 
+## Mongodb collections: 
 
 ```
 ferias [for /api/rh]
