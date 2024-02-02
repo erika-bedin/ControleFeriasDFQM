@@ -1,9 +1,9 @@
 # Controle de Férias do DFQM / UFSCar
-======
+
 
 HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Material UI](http://www.material-ui.com/) + [Nodered](http://http://nodered.org/) + [MongoDB](https://www.mongodb.com/)/[DynamoDB](https://aws.amazon.com/pt/dynamodb/)
 
-##Material UI interfaces:
+## Material UI interfaces:
 
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen1.png)
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen2.png)
@@ -11,7 +11,7 @@ HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Mat
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen4.png)
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/screen5.png)
 
-##Node-red flows:
+## Node-red flows:
 
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow1.png)
 ![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow2.png)
@@ -21,7 +21,7 @@ HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Mat
 /src/ferias.json
 ```
 
-##Mongodb collections: 
+## Mongodb collections: 
 
 ```
 ferias [for /api/rh]
