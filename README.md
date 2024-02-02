@@ -13,9 +13,9 @@ HR vacation management using [ReactJS](https://facebook.github.io/react/) + [Mat
 
 # #Node-red flows:
 
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow1.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow2.png)
-![alt tag](https://github.com/alessh/ferias/blob/master/docs/flow3.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/flow1.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/flow2.png)
+![alt tag](https://github.com/erika-bedin/ControleFeriasDFQM/blob/master/docs/flow3.png)
 
 
 ```
